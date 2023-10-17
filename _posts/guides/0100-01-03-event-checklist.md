@@ -3,8 +3,6 @@ layout: page
 category: guide
 title: Event Checklist
 permalink: 'event-checklist/'
-tags:
-  - planner
 ---
 
 Checklist to help in the preperation, on the day, and follow up to your in-person mapathon:

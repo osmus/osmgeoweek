@@ -1,17 +1,34 @@
 ---
 layout: page
 category: guide
-title: Event Guide
+title: Event Planning Guide
 permalink: 'event-planning/'
 tags:
   - planner
 ---
 
-Here are helpful tips for organizing an in-person mapathon, from recruiting participants, logistics on the day, to follow up.
+Hosting your first event? Been a while since you've hosted a mapathon? Here are helpful tips and resources for organizing an in-person mapathon, from recruiting participants, logistics on the day, to follow up.
 
-Also, there are even more good ideas for event planning on the <a href="http://wiki.openstreetmap.org/wiki/Mapping_Weekend_Howto">OSM Mapping Weekend HOWTO</a> wiki page.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/njxePdKn1pI?si=5izhwCCBas1PGkr_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Teachers & instructors working in a classroom setting should see <a href="http://teachosm.org/">TeachOSM</a> for guidance on bringing OSMGeoweek projects into their classroom.
+## Before You Host a Mapathon
+
+You’ll want to get familiar with the tools you’ll be teaching your volunteer group. First, [create an OpenStreetMap account](https://osmgeoweek.org/docs/Pre-Mapping_Handout.pdf) and practice mapping. We recommend starting in your own community. This way you’ll already know what you are documenting, so you are best prepared to focus on this new tool. Once you are comfortable with OSM, try mapping for a humanitarian project using the Tasking Manager. Don’t forget to read and follow the instructions for the specific project you choose. Once you’ve mapped about five squares, you should feel more comfortable with the tool. OSM has millions of active editors located all around the world, so if you have a question about appropriate tagging or specifically about the tool, try giving it a google. This will help you reach the correct wiki page for your specific question. Most people feel comfortable after playing with these tools for an afternoon.
+
+## Resources for Your Event
+
+### [Pre-Mapathon Handout](https://osmgeoweek.org/docs/Pre-Mapping_Handout.pdf)
+Share this hand-out (virtually or printed) with your attendees to create OpenStreetMap accounts and complete the walkthrough. Signing up a large number of people for OpenStreetMap accounts can take time! Therefore, we highly recommend asking your attendees to sign up ahead of time, if possible.
+
+### [Event Planning Checklist](https://osmgeoweek.org/docs/Event_Planning_Checklist-2023.pdf)
+Use this brief guide to plan your event! For more detailed information and resources, we recommend checking out the Missing Maps [Hosting a Mapathon](https://www.missingmaps.org/host/#Materials) resource page.  
+
+## Additional Resources
+* There are even more good ideas for event planning on the <a href="http://wiki.openstreetmap.org/wiki/Mapping_Weekend_Howto">OSM Mapping Weekend HOWTO</a> wiki page.
+
+* Teachers & instructors working in a classroom setting should see <a href="http://teachosm.org/">TeachOSM</a> for guidance on bringing OSMGeoweek projects into their classroom.
+
+<!--
 
 ## Recruitment
 
@@ -45,8 +62,6 @@ Nearly all of the strategies produce results by either connecting to unique grou
  
 ### Registration
 It is often helpful to require registration, even for no-cost events.  Although there is no fee for participation, having participants register beforehand gives a very good sense of how many people will show up, and additional event details can be provided on the registration page.  Plus, this provides a way to track who attended and acts as a failsafe in case something comes up that requires a change in venue, rescheduling, or cancellation.
- 
-<a href="https://www.eventbrite.com/">Eventbrite</a> has worked well for us, and is free of charge if the event is also. Eventbrite has some nice features that allow management of the tickets/event.  Sometimes, events like this charge a nominal fee to encourage people to actually show up if they register. On the other hand, it is seldom necessary to turn away an unregistered attendee.
  
 ### Agenda
 
@@ -103,4 +118,4 @@ Have a good follow up strategy for participants. Communicate the results after t
 Participants may be interested to hosting a similar event or start a group back home, in their department, etc.  Transition into working with them soon after the event so that we can provide support, and additional training for them while the “iron is hot.”
  
 A longer term goal is to work with the university to incorporate this as part of the university certification programs. Sometimes there are volunteering requirements. This would be a great way to bring in people who might not have been attracted to it otherwise, and to give them an opportunity to be involved in the planning of the event as well.
- 
+ -->
