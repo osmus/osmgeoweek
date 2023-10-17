@@ -15,10 +15,10 @@ OpenStreetMap is a global project and network that has been collaborating for ne
 
 TeachOSM provides educator training, content and curriculum for integrating OSM in the classroom, and advocates for OSM in educational settings. Started in 2013 as a grassroots project by educators for educators, TeachOSM is now a program under OpenStreetMap US. TeachOSM provides educators and students of all levels:
 
-* [Free curriculum & resources on integrating OpenStreetMap into classrooms and other educational setting](https://teachosm.org/projects/)
-* [Case studies and stories of how OpenStreetMap can be used for learning across subjects](https://teachosm.org/blog)
-* Improved tooling to make OpenStreetMap more accessible 
-* _Coming Soon:_ Free e-learning course for educators and students to learn through OpenStreetMap at their own pace & receive credit
+* [Free curriculum & resources](https://teachosm.org/projects/) on integrating OpenStreetMap into classrooms and other educational setting
+* [Case studies and stories](https://teachosm.org/blog) of how OpenStreetMap can be used for learning across subjects
+* *Coming Soon:* Improved tooling to make OpenStreetMap more accessible 
+* *Coming Soon:* Free e-learning course for educators and students to learn through OpenStreetMap at their own pace & receive credit
 
 Are you an educator looking to support this work and/or learn from fellow educators? Join our monthly [Education Working Group](https://www.meetup.com/teachosm/).
 
@@ -36,7 +36,7 @@ YouthMappers is an international network of 375+ university-student-led campus c
 * [Previously recorded online sessions and trainings on YouTube](https://www.youtube.com/@YouthMappers/playlists)
 * [Read case studies and applications of OSM by YouthMappers](https://link.springer.com/book/10.1007/978-3-031-05182-1)
 
-# OpenStreetMap US
+# [OpenStreetMap US](https://openstreetmap.us/)
 
 OpenStreetMap US is a nonprofit membership organization advancing geospatial data democracy by catalyzing collaborative action between individuals, government agencies, nonprofits, corporations, and academia. OpenStreetMap US works to ensure that OpenStreetMap, the largest crowdsourced map of the world, is leveraged equitably through targeted education and outreach to incorporate individuals and communities under-represented in policymaking and technology circles into the open geospatial data movement. Through our grassroots initiatives and community-based programs, we create pathways for all individuals to access and improve OpenStreetMap as it increasingly becomes the source that decision-makers and corporations use to impact our lives.
 
