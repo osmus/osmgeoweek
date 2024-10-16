@@ -10,16 +10,12 @@
   <a href='{{site.baseurl}}/index.html' class='fl logo-text'><span class='text-green'>#</span><span class='text-white'>osm</span><span class='text-green'>geo</span><span class='text-white'>week</span></a>
   <!-- <a class='strong {% if page.url contains "about" %}active{% endif %}' href='{{site.baseurl}}/about/'>About</a> -->
   <a class='small {% if page.url contains "events" or page.category == "event" %}active{% endif %}' href='{{site.baseurl}}/events/'>Events</a>
-
-
+<!--
   <a class='small {% if page.url contains "projects" or page.category == "project" %}active{% endif %}' href='{{site.baseurl}}/projects/'>Projects</a>
-
-
+-->
   <a class='small {% if page.url contains "guides" %}active{% endif %}' href='{{site.baseurl}}/guides/'>Guides</a>
-  
-  <a class='small' href='https://openstreetmap.app.neoncrm.com/forms/osmgeoweek-2023' target="_blank">Support + Swag</a>
-
-  <a class='small' href='https://teachosm.org/' target="_blank">TeachOSM</a>
+  <a class='small {% if page.url contains "about" %}active{% endif %}' href='{{site.baseurl}}/about/'>About</a>
+  <a class='small' href='https://openstreetmap.app.neoncrm.com/forms/osmgeoweek' target="_blank">Donate</a>
   </div>
 </div>
 
@@ -37,14 +33,14 @@
 
 <section class='fill-white pad2y center'>
   <div class='limiter' tx-content="translate_urls">
-    <p><strong>Interested in participating?</strong> Email <a href='mailto:info@teachosm.org '>info@teachosm.org </a> to learn more. <strong>Visit this site's <a href='https://github.com/state-hiu/osmgeoweek-2017'>Github repository</a></strong></p>
+    <p><strong>Interested in participating?</strong> Email <a href='mailto:osmgeoweek@openstreetmap.us'>osmgeoweek@openstreetmap.us</a> to learn more. <strong>Visit this site's <a href='https://github.com/osmus/osmgeoweek'>Github repository</a></strong></p>
   </div>
 </section>
 <footer class='col12 center fill-dark dark'>
   <div class='pad2y col12'>
     <div class='limiter'>
       <p class='small hide-mobile'>
-        <a href='http://osmgeoweek.org'>Geography Awareness Week - OpenStreetMap</a> | <a href='https://twitter.com/search?q=%23osmgeoweek&src=typd'>#osmgeoweek</a> | Photo credits: USAID, 596 acres, UCSB, Kerri Lee Smith, Peace Corps The Gambia, Becky Carnes 
+    <a href='{{site.url}}{{site.baseurl}}/'>OpenStreetMap Geography Awareness Week</a> | <a href='https://twitter.com/search?q=%23osmgeoweek&src=typd'>#osmgeoweek</a><!--     | Photo credits: USAID, 596 acres, UCSB, Kerri Lee Smith, Peace Corps The Gambia, Becky Carnes  -->
 <!-- https://www.flickr.com/photos/usaid_images/11712673254/ -->
 <!-- http://596acres.org/en/ -->
 <!-- http://helios.geog.ucsb.edu/events/department-news/963/ucsb-geography-promotes-the-adventure-in-your-community-for-geography-awareness-week/ -->

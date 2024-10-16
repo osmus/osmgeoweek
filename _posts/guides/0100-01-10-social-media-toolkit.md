@@ -20,7 +20,7 @@ Participants will be encouraged to contribute key open mapping data to a smaller
 
 OSM GeoWeek Hashtags for Social Media:
 
-#osmgeoweek2023  ← Main Hashtag
+#osmgeoweek2024  ← Main Hashtag
 
 #osmgeoweek 
 
@@ -34,18 +34,7 @@ OSM GeoWeek Hashtags for Social Media:
 
 #openstreetmap
 
-
-Featured OSM GeoWeek Organizers (2023):
-
-[@TeachOSM](https://twitter.com/MapGive)
-
 [@OpenStreetMapUS](https://twitter.com/OpenStreetMapUS)
-
-[@YouthMappers](https://twitter.com/youthmappers)
-
-[@AmericanGeo](https://twitter.com/AmericanGeo)
-
-
 
 Topline Messages
 ----------------
@@ -61,27 +50,28 @@ Topline Messages
 Sample Tweets:
 --------------
 
--   Learn to map the world with [#OpenStreetMap](https://twitter.com/search?q=%23OpenStreetMap) during #osmgeoweek2023 <http://osmgeoweek.org/> 
+-   Learn to map the world with [#OpenStreetMap](https://twitter.com/search?q=%23OpenStreetMap) during #osmgeoweek2024 <http://osmgeoweek.org/> 
 
--   Are you a young person just starting your #geocareer? Looking to share your story w/ the #geocommunity? Reach out to <osmgeoweek@gmail.com> to sign up for one of our career panels during #osmgeoweek!
+-   Are you a young person just starting your #geocareer? Looking to share your story w/ the #geocommunity? Reach out to <osmgeoweek@openstreetmap.us> to sign up for one of our career panels during #osmgeoweek!
 
--   Join one of the #mapathons around the world and help spread geographic awareness for #osmgeoweek2023 <http://osmgeoweek.org/> 
+-   Join one of the #mapathons around the world and help spread geographic awareness for #osmgeoweek2024 <http://osmgeoweek.org/> 
 
--   Learn to map to assist #datadriven efforts #osmgeoweek2023 #geoweek osmgeoweek.org 
+-   Learn to map to assist #datadriven efforts #osmgeoweek2024 #geoweek osmgeoweek.org 
 
--   See how you can get involved with Geography Awareness Week Nov 13-17 at http://osmgeoweek.org  #OSMGeoWeek2023
+-   See how you can get involved with Geography Awareness Week Nov 18-22 at http://osmgeoweek.org  #osmgeoweek2024
 
--   What is a #mapathon? In 20 min or 2 hours, people can quickly improve local maps - online, from anywhere. Learn more #OSMGeoWeek2023
+-   What is a #mapathon? In 20 min or 2 hours, people can quickly improve local maps - online, from anywhere. Learn more #osmgeoweek2024
 
 -   Local maps need a #datarevolution: #openmapping creates much needed map data and offers an accessible #tech skill #OSMGeoWeek
 
+<!--
 Shareable Graphics
 ---------------------------------
 
 Browse and download all of the 2023 graphics [here](https://drive.google.com/drive/folders/1opUwm2a7H3EOiHXQi2CvyvNoVIUJyBJD?usp=drive_link)
 
 <img src="../img/share/osmgeoweek 2023_twitter_individual.gif" style="height: 180px"><img src="../img/share/osmgeoweek 2023_Instagram Post_group_v2.gif" style="height: 180px">
-
+-->
 
 
 
