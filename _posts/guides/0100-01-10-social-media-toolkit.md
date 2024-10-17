@@ -64,14 +64,14 @@ Sample Tweets:
 
 -   Local maps need a #datarevolution: #openmapping creates much needed map data and offers an accessible #tech skill #OSMGeoWeek
 
-<!--
 Shareable Graphics
 ---------------------------------
 
-Browse and download all of the 2023 graphics [here](https://drive.google.com/drive/folders/1opUwm2a7H3EOiHXQi2CvyvNoVIUJyBJD?usp=drive_link)
-
-<img src="../img/share/osmgeoweek 2023_twitter_individual.gif" style="height: 180px"><img src="../img/share/osmgeoweek 2023_Instagram Post_group_v2.gif" style="height: 180px">
--->
-
-
-
+<div style="display:flex;width:100%;">
+<a href="{{site.url}}{{site.baseurl}}/img/share/2024/im.jpg"><img src="{{site.url}}{{site.baseurl}}/img/share/2024/im.jpg" style="height: 250px"></a>
+<a href="{{site.url}}{{site.baseurl}}/img/share/2024/im.gif"><img src="{{site.url}}{{site.baseurl}}/img/share/2024/im.gif" style="height: 250px"></a>
+</div>
+<div style="display:flex;width:100%;">
+<a href="{{site.url}}{{site.baseurl}}/img/share/2024/were.jpg"><img src="{{site.url}}{{site.baseurl}}/img/share/2024/were.jpg" style="height: 250px"></a>
+<a href="{{site.url}}{{site.baseurl}}/img/share/2024/were.gif"><img src="{{site.url}}{{site.baseurl}}/img/share/2024/were.gif" style="height: 250px"></a>
+</div>
