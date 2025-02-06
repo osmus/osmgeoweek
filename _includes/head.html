@@ -1,3 +1,4 @@
+{% include analytics.html %}
 <meta charset=utf-8 />
 <meta name='robots' content='{% if page.hidden %}noindex{% else %}index{% endif %}'/>
 <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
@@ -39,10 +40,6 @@
 <script src='{{site.baseurl}}/js/jquery.min.js'></script>
 <script src='{{site.baseurl}}/js/jquery.bxslider.min.js'></script>
 <script src='{{site.baseurl}}/js/venues.js'></script>
-<!-- Google Analytics -->
-{% if site.ga.enabled == true %}
-  {% include analytics_ga_snippet.html %}
-{% endif %}
 
 <!--Transifex snippet-->
 <!--

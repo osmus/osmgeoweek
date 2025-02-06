@@ -5,10 +5,5 @@ api: 'https://script.google.com/macros/s/AKfycbyUhpTZp0iDiFvi1ckLheEUklMa9AE-HAn
 #source: _source
 future: true
 
-# Analytics
-#ga:
-#  enabled: true
-#  code: "UA-24614711-3"
-
 # start date of OSMGeoWeek
 #date: 2016-11-13
